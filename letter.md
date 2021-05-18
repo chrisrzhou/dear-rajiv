@@ -71,7 +71,7 @@ Tandem will be "yet-another-software" product if they did not focus on being *pe
 
 Tandem's product, to put simply, is about people, and a trust in people to use the software as a *secondary* means to solve *primary* human problems.  It provides no opinionated solutions nor recommendations, and an emphasis on empowering humans virtually seems to be a subtle but important factor in improving the synchronicity of human interactions with digital systems.
 
-## A New Social~~-media~~ Web
+## A New Social Web
 
 It is exciting to see what a new social web would look like.  Let's close our eyes, pause a little, and simply -- imagine.
 
